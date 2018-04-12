@@ -18,7 +18,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    
+    //Yuren is Ok
     self.pullView = [[AYWeChatView alloc] initWithFrame:CGRectMake((CGRectGetWidth(self.view.frame) / 2) - 25, -64, 50, 30)];
     [self.tableView addSubview:self.pullView];
     
