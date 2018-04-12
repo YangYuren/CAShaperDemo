@@ -24,6 +24,7 @@
     //This is a Test
     self.view.backgroundColor = [UIColor blackColor];
     self.tableView.backgroundColor = [UIColor clearColor];
+    //第三个测试哦
 }
 
 - (void)didReceiveMemoryWarning {
