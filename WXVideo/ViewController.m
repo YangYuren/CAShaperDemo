@@ -21,7 +21,7 @@
     
     self.pullView = [[AYWeChatView alloc] initWithFrame:CGRectMake((CGRectGetWidth(self.view.frame) / 2) - 25, -64, 50, 30)];
     [self.tableView addSubview:self.pullView];
-    
+    //This is a Test
     self.view.backgroundColor = [UIColor blackColor];
     self.tableView.backgroundColor = [UIColor clearColor];
 }
